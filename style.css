@@ -54,6 +54,7 @@ a:hover {
 
 span {
   font-family: var(--main-font-family);
+  color: var(--secondary-color);
 }
 
 footer p {
