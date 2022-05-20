@@ -22,9 +22,19 @@ img {
 }
 
 h1 {
+  font-size: 40px;
   color: var(--main-color);
   font-family: var(--main-font-family);
   text-align: center;
+}
+
+h2 {
+  font-size: 15px;px;
+  color: var(--main-color);
+  font-family: var(--secondary-font-family);
+  text-align: center;
+  margin-top: -3px;
+  margin-bottom: 15px;
 }
 
 h3 {
