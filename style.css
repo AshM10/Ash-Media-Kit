@@ -28,7 +28,7 @@ h1 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 15px;
   margin: 80px 0;
   padding: 10px 1px;
   text-align: center;
@@ -238,13 +238,16 @@ footer .contact-box {
 }
 
 .links {
-  background: rgb(238, 231, 231);
+  /* background: rgb(238, 231, 231); */
+  background-image: url("images/vincent-guth-uhoILl3HUZM-unsplash.jpg");
   margin-top: -20px;
-  padding: 80px 20px;
+  padding: 20px;
 }
 
-.card {
+section {
   background: #efdcce;
-  margin: 20px 0;
+  margin: 10px 50px;
   border-radius: 0;
+  text-align: center;
+  padding: 20px;
 }
