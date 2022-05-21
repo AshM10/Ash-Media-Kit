@@ -260,7 +260,7 @@ footer .contact-box {
 section {
   background: #efdcce;
   margin: 10px 50px;
-  border-radius: 0;
+  border-radius: 20px;
   text-align: center;
   padding: 20px;
 }
