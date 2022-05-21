@@ -158,9 +158,10 @@ footer .contact-box {
 
 .wrapper {
   max-width: 980px;
-  padding: 20px;
-  margin: 50px auto;
+  padding: 10px;
+  margin: 0 auto;
   border-radius: 30px;
+ 
 }
 
 .hero {
