@@ -253,6 +253,8 @@ footer .contact-box {
 .links {
   /* background: rgb(238, 231, 231); */
   background-image: url("images/vincent-guth-uhoILl3HUZM-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
   margin-top: -20px;
   padding: 20px;
 }
