@@ -58,6 +58,7 @@ p {
 a {
   color: var(--main-color);
   text-decoration: none;
+  font-family: var(--main-font-family);
 }
 
 a:hover {
