@@ -19,7 +19,6 @@ img {
   margin: 20px auto;
   border-radius: 100px;
   padding: 20px;
-  
 }
 
 h1 {
@@ -31,7 +30,7 @@ h1 {
 }
 
 h2 {
-  font-size: 15px;px;
+  font-size: 15px;
   color: var(--main-color);
   font-family: var(--secondary-font-family);
   text-align: center;
@@ -164,7 +163,6 @@ footer .contact-box {
   padding: 10px;
   margin: 0 auto;
   border-radius: 30px;
- 
 }
 
 .hero {
@@ -268,8 +266,8 @@ section {
   padding: 20px;
 }
 
-
-h1, h2 {
+h1,
+h2 {
   animation-duration: 1.5s;
   animation-name: slidein;
 }
@@ -285,5 +283,3 @@ h1, h2 {
     width: 100%;
   }
 }
-
-
